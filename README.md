@@ -1,2 +1,2 @@
-# Springboard-
+# Springboard
 Springboard Projects
