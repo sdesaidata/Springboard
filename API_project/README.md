@@ -7,4 +7,4 @@ We will focus on equities data from the Frankfurt Stock Exhange (FSE), which is 
 
 Note: we will only be using the Python standard library along with requests, json and numpy
 
-In order to access your own API KEY the following steps must be taken:
+**You must have your own API key to run the script**
